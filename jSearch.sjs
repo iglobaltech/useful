@@ -17,7 +17,7 @@ jsearch.documents()
     cts.jsonPropertyWordQuery('size','6'),
     cts.directoryQuery('/lr/web/taxnotes/','infinity'),
     cts.orQuery([cts.jsonPropertyRangeQuery('size',"=",'6'),
-                 cts.jsonPropertyValueQuery('size','6')])
+                 cts.jsonPropertyValueQuery('size','6')]) 
     ]
    ))*/
 //.slice(0,0)
