@@ -23,3 +23,4 @@ jsearch.documents()
 //.slice(0,0)
 .result(); 
 //test git to intelli
+//test intelli to git
